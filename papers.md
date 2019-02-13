@@ -4,7 +4,8 @@
 句法解析
 对query依存分析，与知识图谱匹配
 相关论文
-More Accurate Question Answering on Freebase  http://ad-publications.informatik.uni-freiburg.de/CIKM_freebase_qa_BH_2015.pdf
+
+[More Accurate Question Answering on Freebase](http://ad-publications.informatik.uni-freiburg.de/CIKM_freebase_qa_BH_2015.pdf)
 
 Semantic parsing on freebase from question-answer pairs  http://www.aclweb.org/anthology/D13-1160
 
